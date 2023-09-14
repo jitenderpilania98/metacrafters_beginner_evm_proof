@@ -8,7 +8,7 @@ The code features functions for token minting and burning, as specified in the a
 
 ## 🌜 Get Started
 
-1. Copy the code from [token-creating.sol](token-creating.sol).
+1. Copy the code from [token.sol](token.sol).
 2. Open the [Remix IDE](https://remix.ethereum.org/) in your browser.
 3. Create a new file with any name and a `.sol` extension.
 4. Paste the copied code into the new file.
